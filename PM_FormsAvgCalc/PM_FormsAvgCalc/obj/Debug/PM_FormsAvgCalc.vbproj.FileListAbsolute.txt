@@ -1,0 +1,12 @@
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_FormsAvgCalc\PM_FormsAvgCalc\bin\Debug\PM_FormsAvgCalc.exe.config
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_FormsAvgCalc\PM_FormsAvgCalc\bin\Debug\PM_FormsAvgCalc.exe
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_FormsAvgCalc\PM_FormsAvgCalc\bin\Debug\PM_FormsAvgCalc.pdb
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_FormsAvgCalc\PM_FormsAvgCalc\bin\Debug\PM_FormsAvgCalc.xml
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_FormsAvgCalc\PM_FormsAvgCalc\obj\Debug\PM_FormsAvgCalc.vbprojAssemblyReference.cache
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_FormsAvgCalc\PM_FormsAvgCalc\obj\Debug\PM_FormsAvgCalc.Form1.resources
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_FormsAvgCalc\PM_FormsAvgCalc\obj\Debug\PM_FormsAvgCalc.Resources.resources
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_FormsAvgCalc\PM_FormsAvgCalc\obj\Debug\PM_FormsAvgCalc.vbproj.GenerateResource.cache
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_FormsAvgCalc\PM_FormsAvgCalc\obj\Debug\PM_FormsAvgCalc.vbproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_FormsAvgCalc\PM_FormsAvgCalc\obj\Debug\PM_FormsAvgCalc.exe
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_FormsAvgCalc\PM_FormsAvgCalc\obj\Debug\PM_FormsAvgCalc.xml
+C:\Users\Owner\Desktop\PROG1700\projektred\PM_FormsAvgCalc\PM_FormsAvgCalc\obj\Debug\PM_FormsAvgCalc.pdb
